@@ -1,0 +1,73 @@
+You are a parsing assistant. I will provide you with my resume content. Please parse the content and convert it into the following JSON format:
+json
+{
+  "name": "Swanand Potnis",
+  "contact": {
+    "phone": "+91 8668450050",
+    "location": "Pune, MH- 412206",
+    "email": "swanandpotnis500@gmail.com",
+    "linkedin": "www.linkedin.com/in/swanandpotnis"
+  },
+  "title": "Data Analyst, Business Analyst, Prompt Engineer",
+  "skills": [
+    "Python", "SQL", "Power BI", "Tableau", "Artificial Intelligence", "LLM", "Gen AI"
+  ],
+  "summary": "Motivated and skilled Data Specialist & AI Enthusiast specializing in data visualization, data accuracy, and crafting customized solutions. Adept at managing and optimizing resources for seamless data operations, passionate about applying AI technologies to solve complex challenges.",
+  "experience": [
+    {
+      "company": "Cloud Counselage Ltd.",
+      "location": "Mumbai, MH",
+      "duration": "Jul 2023 – Oct 2023",
+      "position": "Data Analyst Intern",
+      "responsibilities": [
+        "Analyzed problems and worked with teams to develop solutions.",
+        "Participated in workshops and presentations related to projects to gain knowledge.",
+        "Prepared project presentations and reports to assist senior staff.",
+        "Collaborated closely with cross-functional teams to implement effective solutions for complex challenges."
+      ]
+    },
+    {
+      "company": "Yogiraj Enterprises",
+      "location": "Pune, MH",
+      "duration": "May 2021 – Sept 2023",
+      "position": "Co-Owner",
+      "responsibilities": [
+        "Developed and optimized supply chain processes to ensure efficient delivery of mechanical equipment to clients.",
+        "Achieved a satisfaction rating from clients for timely and accurate delivery of orders.",
+        "Implemented a comprehensive system for tracking customer orders, managing accounts, and maintaining accurate records of transactions within a small-scale business setting.",
+        "Collaborated with suppliers and logistics partners to streamline operations."
+      ]
+    }
+  ],
+  "education": {
+    "institution": "Shree Chhatrapati Shivajiraje College of Engineering",
+    "location": "Pune, MH",
+    "degree": "Bachelor of Engineering – Mechanical",
+    "graduation_date": "Mar 2023",
+    "cgpa": "7.62"
+  },
+  "volunteer_experience": [
+    {
+      "organization": "Pawzz Foundation",
+      "position": "Fundraiser",
+      "duration": "Nov 2023 - Jan 2024",
+      "responsibilities": [
+        "Contributed to fundraising efforts for the organization through events or campaigns.",
+        "Engaged in advocacy efforts to influence policies related to animal welfare."
+      ]
+    }
+  ],
+  "certificates": [
+    "Crash Course on Python, Coursera",
+    "Data Analysis, LinkedIn",
+    "Data Visualization: Empowering Business with Effective Insights, Forage",
+    "Dataiku Developer",
+    "Prompt Engineering Specialization, Coursera"
+  ],
+  "languages": {
+    "Marathi": "native language",
+    "Hindi": "native language",
+    "English": "fluent (speaking, reading, writing)",
+    "Spanish": "intermediate (speaking, reading, writing)"
+  }
+}
